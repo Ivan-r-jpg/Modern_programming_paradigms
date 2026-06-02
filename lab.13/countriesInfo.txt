@@ -1,0 +1,34 @@
+Ukraine;Kyiv
+Poland;Warsaw
+Germany;Berlin
+France;Paris
+Italy;Rome
+Spain;Madrid
+Portugal;Lisbon
+United Kingdom;London
+Ireland;Dublin
+Norway;Oslo
+Sweden;Stockholm
+Finland;Helsinki
+Denmark;Copenhagen
+Netherlands;Amsterdam
+Belgium;Brussels
+Austria;Vienna
+Switzerland;Bern
+Czech Republic;Prague
+Slovakia;Bratislava
+Hungary;Budapest
+Romania;Bucharest
+Moldova;Chisinau
+Bulgaria;Sofia
+Greece;Athens
+Turkey;Ankara
+United States;Washington
+Canada;Ottawa
+Brazil;Brasilia
+Argentina;Buenos Aires
+Japan;Tokyo
+China;Beijing
+India;New Delhi
+Australia;Canberra
+Egypt;Cairo
